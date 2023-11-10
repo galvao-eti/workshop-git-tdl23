@@ -1,3 +1,3 @@
 <?php
-
-$n = rand(0, 19);
+$valor = rand(0, 1000);
+echo $valor;
